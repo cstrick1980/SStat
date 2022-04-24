@@ -1,0 +1,9 @@
+:Base SSStat.hlp
+:Title Student Stat Help
+:Link SSStat.hlp
+1 Simple Stat=1000
+2 File Menu Options=2000
+2 Math Math Menu Options=2010
+2 Graphics Menu Options=2020
+2 Statistics Menu Options=2030
+2 Trig Menu Options=2040
